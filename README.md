@@ -6,6 +6,7 @@
 | Awesome | Description |
 | --- | --- |
 | [ChatGPT](https://chat.openai.com/?ref=awe50meAI) |  |
+| [Magai](https://magai.co/) | The best all-in-one AI. |
 | [Google Gemini](https://gemini.google.com/?ref=awe50meAI) | Gemini gives you direct access to Google AI. Get help with writing, planning, learning, and more.  |
 | [Poe](https://poe.com/?ref=awe50meAI) | Fast, Helpful AI Chat |
 | [Chat D-ID](https://chat.d-id.com/?ref=awe50meAI) |  |
